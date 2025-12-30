@@ -1,42 +1,42 @@
 # Crunchbase-dataset-samples
 
-<h2>A sample dataset of 1001 Crunchbase companies</h2>
+<h2>1001社のCrunchbase企業のサンプルデータセット</h2>
 
 ![Crunchbase dataset header](https://github.com/luminati-io/Crunchbase-dataset-samples/blob/main/crunchbase-datasets.PNG)
 
-A Crunchbase dataset sample of over 1000 companies. Dataset was extracted using the <b>Bright Data API</b>.
+1000社を超える企業のCrunchbaseデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出しました。
 
-<h2>Data points included in this free dataset:</h2>
+<h2>この無料データセットに含まれるデータポイント:</h2>
 
-* ```id```: Unique identifier for the company
-* ```name```: Name of the company
-* ```url```: URL or web address associated with the company
-* ```cb_rank```: Crunchbase rank assigned to the company
-* ```region```: Continent where the company's headquarters is located
-* ```about```: Overview or description of the company
-* ```industries```: Industries associated with the company
-* ```operating_status```: Current operating status of the company
-* ```company_type```: Type of company (e.g., private, public)
-* ```social_media_links```: URLs of social media profiles associated with the company
-* ```founded_date```: Date when the company was founded
-* ```num_employees```: Number of employees in the company
+* ```id```: 企業の一意識別子
+* ```name```: 企業名
+* ```url```: 企業に関連付けられたURLまたはWebアドレス
+* ```cb_rank```: 企業に割り当てられたCrunchbaseランク
+* ```region```: 企業の本社が所在する大陸
+* ```about```: 企業の概要または説明
+* ```industries```: 企業に関連する業界
+* ```operating_status```: 企業の現在の稼働状況
+* ```company_type```: 企業タイプ（例: 非公開、公開）
+* ```social_media_links```: 企業に関連付けられたソーシャルメディアプロフィールのURL
+* ```founded_date```: 企業の設立日
+* ```num_employees```: 企業の従業員数
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Crunchbase Company Information (public data)"
-dataset which includes more than <b>3,200,000 companies</b>.
+これは「Crunchbase Company Information (public data)」データセットから派生したサンプルサブセットであり、
+このデータセットには <b>3,200,000社以上</b> の企業が含まれます。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式: <b>JSON, NDJSON, JSON Lines, CSV, または Parquet。必要に応じてファイルを .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセットの配信タイプの選択肢: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度: <b>1回のみ、毎日、毎週、毎月、四半期ごと、またはカスタム</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出したデータポイントに追加できるデータエンリッチメント: <b>リクエストに応じて。</b>
 
-<b>[Get the full Crunchbase companies dataset](https://brightdata.com/products/datasets/crunchbase)</b>.
+<b>[Crunchbase企業データセットのフル版を入手する](https://brightdata.jp/products/datasets/crunchbase)</b>。
 
-<h2>Additional Crunchbase subsets available:</h2>
+<h2>利用可能な追加のCrunchbaseサブセット:</h2>
 
 *   Crunchbase top ranked companies
 *   Crunchbase largest companies
@@ -44,20 +44,20 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 
 ![Crunchbase dataset visual](https://github.com/luminati-io/Crunchbase-dataset-samples/blob/main/crunchbase-datasets-image.PNG)
 
-<h2>What are the Crunchbase datasets use cases?</h2>
+<h2>Crunchbaseデータセットのユースケースは何ですか？</h2>
 
-<h3>1. Competitive analysis</h3>
+<h3>1. 競合分析</h3>
 
-Utilize firmographic data to monitor company growth, pinpoint key organizations and professionals, track employee transitions, and enhance competitive intelligence and analysis with greater efficiency.
+企業属性（firmographic）データを活用して企業の成長をモニタリングし、主要な組織や専門家を特定し、従業員の移動を追跡し、競合インテリジェンスと分析をより効率的に強化します。
 
-<h3>2. Market trends & growth</h3>
+<h3>2. 市場トレンドと成長</h3>
 
-Assess company growth and industry trends to support data-driven decisions. Hedge funds, VCs, and financial firms can significantly boost their investment analysis using the Crunchbase dataset.
+企業の成長と業界トレンドを評価し、データドリブンな意思決定を支援します。ヘッジファンド、VC、金融機関は、Crunchbaseデータセットを活用することで投資分析を大幅に強化できます。
 
-<h3>3. B2B company data</h3>
+<h3>3. B2B企業データ</h3>
 
-Enhance your lead generation and sales intelligence by integrating high-quality company and employee data into your CRM, enriched with a comprehensive Crunchbase dataset.
+高品質な企業および従業員データをCRMに統合し、包括的なCrunchbaseデータセットで強化することで、リード獲得とセールスインテリジェンスを向上させます。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、さまざまな環境・社会的活動を推進する主要な学術部局や研究者、NGOおよびNPOに対して、Bright Data の <b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b> と <b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b> へのアクセスを提供します。申請は <b>[こちら](https://brightinitiative.com)</b> から提出できます。
