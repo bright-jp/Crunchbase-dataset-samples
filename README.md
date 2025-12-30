@@ -2,7 +2,7 @@
 
 <h2>1001社のCrunchbase企業のサンプルデータセット</h2>
 
-![Crunchbase dataset header](https://github.com/luminati-io/Crunchbase-dataset-samples/blob/main/crunchbase-datasets.PNG)
+![Crunchbase dataset header](https://github.com/bright-jp/Crunchbase-dataset-samples/blob/main/crunchbase-datasets.PNG)
 
 1000社を超える企業のCrunchbaseデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出しました。
 
@@ -42,7 +42,7 @@
 *   Crunchbase largest companies
 *   Crunchbase newest companies
 
-![Crunchbase dataset visual](https://github.com/luminati-io/Crunchbase-dataset-samples/blob/main/crunchbase-datasets-image.PNG)
+![Crunchbase dataset visual](https://github.com/bright-jp/Crunchbase-dataset-samples/blob/main/crunchbase-datasets-image.PNG)
 
 <h2>Crunchbaseデータセットのユースケースは何ですか？</h2>
 
