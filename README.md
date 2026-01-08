@@ -1,4 +1,4 @@
-# Crunchbase-dataset-samples
+# Crunchbase データセットサンプル
 
 <h2>1001社のCrunchbase企業のサンプルデータセット</h2>
 
